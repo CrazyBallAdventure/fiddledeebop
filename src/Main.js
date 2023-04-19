@@ -13,8 +13,8 @@ class Main extends React.Component {
     render() {
         return (
             <div>
-                <HornedBeast title="epic alicorn dab!" imageUrl={imgUrl} description={desc}/>
-                <HornedBeast title="super cool-looking Jackson's Chameleon!" imageUrl={imgUrl2} description={desc2}/>
+                <HornedBeast title="epic alicorn dab!!" imageUrl={imgUrl} description={desc}/>
+                <HornedBeast title="super cool-looking Jackson's Chameleon!!" imageUrl={imgUrl2} description={desc2}/>
             </div>
         )
     }

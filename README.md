@@ -69,7 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-Number and name of feature: 3 features; display images, add favourites, bootstrap
+`Lab 2: Number and name of feature: 3 features; display images, add favourites, bootstrap
 
 Estimate of time needed to complete: 1 day
 
@@ -77,4 +77,6 @@ Start time: 10:55 am
 
 Finish time: 9:47 am
 
-Actual time needed to complete: 2 days
+Actual time needed to complete: 2 days`
+
+`Lab 3: `
